@@ -32,8 +32,10 @@
 | 19 | [Своя команда `/review`](https://github.com/ahtlv/claude-course-2026-07-lesson-5/blob/main/prompts/19-review-command.md) | Первая slash-команда: проверка страницы на адаптив, вёрстку, тексты | 5 |
 | 20 | [Дизайн-система на лендинг](https://github.com/ahtlv/claude-course-2026-07-lesson-5/blob/main/prompts/20-design-system.md) | `DESIGN.md` известного бренда поверх вашей страницы | 5 |
 | 21 | [Хук: защита файлов](https://github.com/ahtlv/claude-course-2026-07-lesson-5/blob/main/prompts/21-protect-files.md) | Агент не может тронуть `.env`, ключи и `.git/` | 5 |
+| 00 | [Skill markitdown](https://github.com/ahtlv/claude-course-2026-07-lesson-6/blob/main/prompts/00-get-skill-markitdown.md) | PDF/Word/PPT/Excel/YouTube → чистый текст перед тем, как Claude их читает — экономит токены | 6 |
 
-> ⚠️ Номер 04 встречается дважды — так сложилось при пересборке курса. Смотрите на занятие.
+> ⚠️ Номера 00 и 04 встречаются дважды каждый — так сложилось при пересборке курса.
+> Смотрите на занятие.
 
 ---
 
